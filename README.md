@@ -7,6 +7,5 @@ Proyecto de Testing manual para la página de CompraGamer
 
 🔧Herramientas/Aplicaciones utilizados:
 - Google Drive
-- Paquete Office
-  - Excel
+- Microsoft Excel
 - Archivos PDF
